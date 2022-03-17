@@ -1,4 +1,5 @@
 # MyPlayer
 
-1.1 add local database, using sqlite3
-    modules separate
+1.1 add local database, using sqlite3;
+    modules separate;
+    update to pyside6.
